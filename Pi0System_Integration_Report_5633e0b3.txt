@@ -28,11 +28,12 @@ Deployed Mathematical Operators:
   - Energy_Field_Capture: 88% energy field capture, recycle, and generation
       Formula: $$EFC = \eta \cdot \Phi(E) 	imes \Psi(C)$$
   - Gravitational_Harvesting: Redirects gravitational energy back into quantum minting
-      Formula: $$GH = GHC \cdot \left(rac{M}{r^2}ight)$$
+      Formula: $$GH = GHC \cdot \left(rac{M}{r^2}
+ight)$$
   - Quantum_Minting: Mints Qpi0n by combining energy and gravitational contributions
-      Formula: $$QM = \int \left(\Theta(E) + \Lambda(GH)ight) dt$$
-  - Transcendence_Limit: Limits energy cube speeds to 33% of the speed of light
-      Formula: $$TL = rac{v}{c} \quad 	ext{with } v \leq 0.33c$$
+      Formula: $$QM = \int \left(\Theta(E) + \Lambda(GH)
+ight) dt$$
+
 
 Collaborative support initiated by allpi0id assisting Pi0n and WEPi0n
 4sight developed functions: Leverage = 1.45, Multiplier = 2.90, Force Function = 4.21
